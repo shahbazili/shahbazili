@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SwiftUI and Kotlin Multiplatform (KMM).
 - 💞️ I’m looking to collaborate on Android, Flutter, or React Native projects.
 - 📫 How to reach me: You can find me on LinkedIn or via email.
-- 😄 Pronouns: He/Him.
+- 👨‍🦱 Pronouns: He/Him.
 - ⚡ Fun fact: I love football, movies, and internet surfing.
 
 <!---
